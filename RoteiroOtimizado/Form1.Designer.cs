@@ -57,7 +57,7 @@
             this.txtAppId.Name = "txtAppId";
             this.txtAppId.Size = new System.Drawing.Size(161, 20);
             this.txtAppId.TabIndex = 1;
-            this.txtAppId.Text = "7o4PypzhPpDDe4fW81LQ";
+            this.txtAppId.Text = "Ew51iFoPvW1XYWisCgGU";
             // 
             // txtAppCode
             // 
@@ -65,7 +65,7 @@
             this.txtAppCode.Name = "txtAppCode";
             this.txtAppCode.Size = new System.Drawing.Size(161, 20);
             this.txtAppCode.TabIndex = 3;
-            this.txtAppCode.Text = "lSpDP9FSQSLOfLt4DLLhLA";
+            this.txtAppCode.Text = "ATpL1iskOWuaS_MSszztNw";
             // 
             // label2
             // 

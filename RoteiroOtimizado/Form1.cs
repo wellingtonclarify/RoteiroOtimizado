@@ -28,9 +28,9 @@ namespace RoteiroOtimizado
             {
                 ChamarApi();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                throw;
+                MessageBox.Show("Erro: "+ ex.Message);
             }
             finally
             {
