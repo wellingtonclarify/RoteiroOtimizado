@@ -150,6 +150,7 @@ namespace RoteiroOtimizado
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri("https://wse.cit.api.here.com");
+                client.Timeout = new TimeSpan(0, 0, 30);
 
                 var request = new StringBuilder();
 
